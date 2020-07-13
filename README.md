@@ -1,6 +1,6 @@
 ### Welcome! 👨🏽‍💻
 
-![Jose Amador](./assets/amador.png)
+<img src="https://raw.githubusercontent.com/JoseLAmador/JoseLAmador/master/amador.png" alt="Jose Amador Web Developer">
 
 <!--
 **JoseLAmador/JoseLAmador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
